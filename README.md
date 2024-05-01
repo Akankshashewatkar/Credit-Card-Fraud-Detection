@@ -12,10 +12,8 @@
 An end-to-end Machine Learning Project carried out by Group 3 Zummit Africa AI/ML Team to detect fraudulent credit card transactions. Built with FastAPI, Streamlit and Docker.
 
 ## Contributors
-- **NNEJI IFEANYI DANIEL**
-- **IFEZUE TOONNAEMEKA HILARY**
-- **SOMTOCHUKWU OGUCHIENTI**
-- **KACHUKWU OKOH**
+- **AKANKSHA SHEWATKAR**
+
 
 You can check out the article on Medium describing in detail how this project was carried out.
 
